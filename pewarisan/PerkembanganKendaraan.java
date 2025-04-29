@@ -1,3 +1,4 @@
+package pewarisan;
 // Kelas Induk
 class Kendaraan {
     String nama;

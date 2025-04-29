@@ -1,4 +1,4 @@
-package perkalian;
+package aritmatika;
 import java.util.Scanner;
 
 public class Kali {

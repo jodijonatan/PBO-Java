@@ -1,4 +1,4 @@
-package pembagian;
+package aritmatika;
 import java.util.Scanner;
 
 public class Bagi {

@@ -1,3 +1,4 @@
+package pewarisan;
 // Kelas Induk
 class Telepon {
   String nama;

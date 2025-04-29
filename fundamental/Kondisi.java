@@ -1,4 +1,5 @@
 package fundamental;
+
 public class Kondisi {
     public static void main(String[] args) {
         byte angka = 15;
