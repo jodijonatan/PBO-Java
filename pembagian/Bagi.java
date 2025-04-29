@@ -21,7 +21,7 @@ public class Bagi {
         }  catch (Exception e) {
             System.out.println("Masukkan angka yang valid");
         } finally {
-            close.scanner();
+            scanner.close();
         }
     } 
 } 
