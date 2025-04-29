@@ -29,7 +29,7 @@ class Goat extends Animal {
   }
 }
 
-class Main {
+class AnimalsSounds {
   public static void main(String[] args) {
     Animal myAnimal = new Animal();  // Create a Animal object
     Animal myPig = new Pig();  // Create a Pig object
