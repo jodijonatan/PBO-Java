@@ -6,7 +6,7 @@ public class DenganParameter {
     }
 
     public static void main(String[] args) {
-        sapa("Andi");  // cetak: Halo Andi!
-        sapa("Rina");  // cetak: Halo Rina!
+        sapa("Jodi");  // cetak: Halo Andi!
+        sapa("Jonatan");  // cetak: Halo Rina!
     }
 }
