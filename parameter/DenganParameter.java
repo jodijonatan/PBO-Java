@@ -2,11 +2,11 @@ package parameter;
 
 public class DenganParameter {
     public static void sapa(String nama) {
-        System.out.println("Halo " + nama + "!");
+        System.out.println("Halo " + nama + ", nice to meet you");
     }
 
     public static void main(String[] args) {
-        sapa("Jodi");  // cetak: Halo Andi!
-        sapa("Jonatan");  // cetak: Halo Rina!
+        sapa("Jodi");
+        sapa("Jonatan");
     }
 }
