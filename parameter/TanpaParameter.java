@@ -6,13 +6,12 @@ public class TanpaParameter {
         System.out.println("Halo " + name + "!");
     }
 
-    // Parameter default value
     public static void sapa() {
         sapa("Anonymous");
     }
 
     public static void main(String[] args) {
-        sapa("Jo"); // metode dengan data
-        sapa(); // metode tanpa data (default value)
+        sapa("Jodi");
+        sapa();
     }
 }
