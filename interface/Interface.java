@@ -12,11 +12,11 @@ class Pig implements Animal {
   }
   public void sleep() {
     // The body of sleep() is provided here
-    System.out.println("Zzz");
+    System.out.println("The body of sleep: Zzz");
   }
 }
 
-class Main {
+class Interface {
   public static void main(String[] args) {
     Pig myPig = new Pig();  // Create a Pig object
     myPig.animalSound();
