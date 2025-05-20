@@ -1,4 +1,4 @@
-package interfacee;
+package intrface;
 
 // Interface
 interface Animal {
