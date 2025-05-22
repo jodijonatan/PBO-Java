@@ -7,7 +7,7 @@ public class Kondisi {
             System.out.println("angka lebih besar dari 10");
         } else if (angka == 10) {
             System.out.println("angka sama dengan 10");
-        }  else {
+        } else {
             System.out.println("angka lebih kecil dari 10");
         }
     }
