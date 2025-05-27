@@ -1,4 +1,4 @@
-package enkapsulasi;
+package encapsulation;
 
 public class Mobil {
     // Data (atribut) disembunyikan
