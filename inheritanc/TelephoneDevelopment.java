@@ -1,4 +1,4 @@
-package pewarisan;
+package inheritanc;
 // Kelas Induk
 class Telepon {
   String nama;
@@ -45,7 +45,7 @@ class Smartestphone extends Smartphone {
 }
 
 // Kelas Main
-public class PerkembanganTelepon {
+public class TelephoneDevelopment {
   public static void main(String[] args) {
       System.out.println("== Simulasi Fitur Telepon Berdasarkan Perkembangannya ==\n");
 

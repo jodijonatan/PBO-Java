@@ -1,6 +1,6 @@
 package parameter;
 
-public class DenganParameter {
+public class WithParameter {
     public static void sapa(String nama) {
         System.out.println("Halo " + nama + ", nice to meet you");
         System.out.println("Halo " + nama + ", CIHUYY");

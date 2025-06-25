@@ -1,6 +1,6 @@
 package parameter;
 
-public class TanpaParameter {
+public class WithoutParameter {
     // Method dengan parameter
     public static void sapa(String name) {
         System.out.println("Halo " + name + "!");

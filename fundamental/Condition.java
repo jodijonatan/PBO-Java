@@ -1,6 +1,6 @@
 package fundamental;
 
-public class Kondisi {
+public class Condition {
     public static void main(String[] args) {
         byte angka = 15;
         if (angka > 10) {

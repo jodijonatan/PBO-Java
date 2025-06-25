@@ -1,4 +1,4 @@
-package pewarisan;
+package inheritanc;
 // Kelas Induk
 class Kendaraan {
     String nama;
@@ -46,7 +46,7 @@ class MobilListrikSport extends MobilSport {
 }
 
 // Kelas Main
-public class PerkembanganKendaraan {
+public class VehicleDevelopment {
     public static void main(String[] args) {
         System.out.println("== Simulasi Fitur Kendaraan Berdasarkan Perkembangannya ==\n");
 
